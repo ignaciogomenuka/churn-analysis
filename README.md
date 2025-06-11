@@ -36,7 +36,14 @@ Este proyecto explora la pérdida de clientes (churn) en un contexto fintech sim
 - `Churn.ipynb` → Notebook principal con todo el análisis.
 - `img/` → Visualizaciones listas para presentación.
 - `modelos/` → Modelos entrenados en formato `.pkl` (opcional).
+- `Fintech-Churn-Analysis.pdf` → 📄 Presentación ejecutiva.
 - `README.md` → Este archivo.
+
+---
+
+## 🎥 Ver presentación
+
+📎 [Ver presentación en PDF](./Fintech-Churn-Analysis.pdf)
 
 ---
 
@@ -52,3 +59,11 @@ Este proyecto explora la pérdida de clientes (churn) en un contexto fintech sim
 
 **Ignacio Muñoz Gomeñuka**  
 [github.com/ignaciogomenuka](https://github.com/ignaciogomenuka)
+
+---
+
+## 💡 Próximos pasos
+
+- Integrar el modelo en Tableau vía TabPy.
+- Explorar variables temporales y comportamiento transaccional.
+- Implementar alertas automáticas por score de churn.
